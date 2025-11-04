@@ -122,10 +122,10 @@ Test at:
 
 📁 Project Structure
 
-├── cancer.py               # FastAPI deployment file  
+├── cancer_prediction.py               # FastAPI deployment file  
 ├── cancer.pkl              # Saved ML model  
-├── cancer_prediction.ipynb # Model building & analysis notebook  
-├── dataset.csv  
+├── Cancer_Prediction_Using_ML.ipynb # Model building & analysis notebook  
+├── The_Cancer_data_1500_V2.csv
 ├── requirements.txt  
 ├── README.md
 
