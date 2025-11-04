@@ -149,3 +149,11 @@ Use GridSearchCV/RandomizedSearchCV for tuning
 ✅ Conclusion
 
 This project shows a complete pipeline — from data preprocessing (Min-Max Scaling), model training, evaluation, saving with pickle, to FastAPI deployment. It enables fast and accurate cancer prediction, making it useful for healthcare applications.
+
+---
+
+👨‍💻 Author
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/Cancer-Prediction-ML
