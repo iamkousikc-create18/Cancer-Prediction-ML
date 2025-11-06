@@ -142,7 +142,13 @@ Add database for storing patient history
 
 Use GridSearchCV/RandomizedSearchCV for tuning
 
+🎥 Demo Video
 
+You can watch the project in action here:
+
+▶ [Click to watch CancerPrediction.mp4](./CancerPrediction.mp4)
+
+Or download directly from this repository.
 
 ---
 
